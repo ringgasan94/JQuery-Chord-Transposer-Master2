@@ -1,0 +1,12 @@
+/*!
+ * Perintah Untuk menampilkan Fitur
+ */
+span.c { 
+  font-weight: bold; 
+  color: #ffdd40;
+  }
+.transpose-keys {
+	margin: 10px 0;
+	overflow: auto;
+	font: normal 11px sans-serif;
+}
